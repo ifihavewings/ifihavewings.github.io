@@ -1,0 +1,1 @@
+import{d as a,j as o,k as e,w as r,f as t,o as s,l as n,R as c,z as i}from"./index-RQLAaoDU.js";const p=a({__name:"TsApi",setup(f){return(u,_)=>(s(),o("div",null,[e(t(c),{to:"/ts/interface"},{default:r(()=>[n("interface")]),_:1}),e(t(i))]))}});export{p as default};
