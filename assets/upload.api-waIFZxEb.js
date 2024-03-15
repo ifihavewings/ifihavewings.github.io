@@ -1,0 +1,1 @@
+import{i as t}from"./index-9zeyy3xN.js";const e=(o={})=>t({url:"/upload/formidable",data:o,headers:{"Content-Type":"multipart/form-data"},method:"post"}),r=o=>t({url:`/download/${o}`,data:{a:1,b:2},method:"post",responseType:"blob"});export{r as d,e as u};
